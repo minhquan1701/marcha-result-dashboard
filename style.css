@@ -25,3 +25,8 @@ div.css-1r6slb0.e1tzin5v2 .css-1wivap2.e16fv1kl3 {
 }
 
  */
+/* Hide hamburger menu and footer */
+div.css-14xtw13.e8zbici0 {
+    display: none;
+}
+
